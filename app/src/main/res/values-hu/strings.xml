@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Teendők</string>
+    <string name="removeAll">Összes törlése</string>
+    <string name="date">Dátum</string>
+    <string name="task">Teendő</string>
+    <string name="edit">Módosítás</string>
+    <string name="delete">Törlés</string>
+    <string name="taskEdit">Teendő</string>
+    <string name="taskDate">Dátum</string>
+    <string name="cancel">Mégsem</string>
+    <string name="save">Mentés</string>
+    <string name="priority">Prioritás</string>
+    <string name="high">Magas</string>
+    <string name="medium">Közepes</string>
+    <string name="low">Alacsony</string>
+    <string name="status">Státusz</string>
+    <string name="active">Aktuális</string>
+    <string name="completed">Elvégezve</string>
+    <string name="completedTasks">Elvégzett teendők</string>
+    <string name="activeTasks">Aktuális teendők</string>
+    <string name="allTasks">Összes teendő</string>
+    <string name="set">Kiválasztás</string>
+    <string name="confirmDelete">Biztos, hogy törölni akarod az összes teendőt?</string>
+    <string name="confirmDeleteTitle">Törlés megerősítése</string>
+    <string name="no">Nem</string>
+    <string name="yes">Igen</string>
+</resources>

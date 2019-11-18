@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="gittaSz.todolist.MainActivity">
+
+    <item
+        android:id="@+id/mi_allTasks"
+        android:orderInCategory="100"
+        android:title="@string/allTasks"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/mi_activeTasks"
+        android:orderInCategory="101"
+        android:title="@string/activeTasks"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/mi_completedTasks"
+        android:orderInCategory="200"
+        android:title="@string/completedTasks"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/mi_removeAll"
+        android:orderInCategory="300"
+        android:title="@string/removeAll"
+        app:showAsAction="never" />
+</menu>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="removeAll">Remove all</string>
+    <string name="date">Date</string>
+    <string name="task">Task</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="taskEdit">Task</string>
+    <string name="taskDate">Date</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="priority">Priority</string>
+    <string name="high">High</string>
+    <string name="medium">Medium</string>
+    <string name="low">Low</string>
+    <string name="status">Status</string>
+    <string name="active">Active</string>
+    <string name="completed">Completed</string>
+    <string name="completedTasks">Completed tasks</string>
+    <string name="activeTasks">Active tasks</string>
+    <string name="allTasks">All tasks</string>
+    <string name="set">Set</string>
+    <string name="confirmDelete">Do you really want to remove all tasks?</string>
+    <string name="confirmDeleteTitle">Confirm deletion</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+</resources>
